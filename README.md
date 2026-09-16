@@ -36,4 +36,4 @@ marges) afin d'aller plus vite dans cette lutte.
 
 - Modèle entraîné sur une seule devise (euros)
 - **Pistes** : ajouter d'autres devises, intégrer des données d'image, tester
-  des modèles plus avancés (Random Forest, XGBoost)
+  des modèles plus avancés (XGBoost par exemple)
