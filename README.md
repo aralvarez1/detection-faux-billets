@@ -35,6 +35,5 @@ marges) afin d'aller plus vite dans cette lutte.
 ## Limites & pistes
 
 - Modèle entraîné sur une seule devise (euros)
-- Pas de prise en compte de l'usure des billets
 - **Pistes** : ajouter d'autres devises, intégrer des données d'image, tester
   des modèles plus avancés (Random Forest, XGBoost)
